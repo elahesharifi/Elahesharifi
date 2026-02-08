@@ -41,9 +41,8 @@ Power BI Certified Data Analyst (PL-300) with a Bachelor’s in Computer Enginee
 
 ---
 
-I’m always open to **collaborations, freelance work, and new data challenges**! 🚀
-
-
 ### 📫 Let's Connect
+
+I’m always open to **collaborations, freelance work, and new data challenges**! 🚀
 
 [LinkedIn](https://www.linkedin.com/in/elahesharifi/)
