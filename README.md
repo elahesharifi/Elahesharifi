@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 😊 Hi, I'm Elahe Sharifi 📈
 
-<!--
-**elahesharifi/Elahesharifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 **Email:** [Elahesharifi28@gmail.com](mailto:elahesharifi28@gmail.com)  
+📍 **Amsterdam | NL Work Authorized (No sponsorship)**
 
-Here are some ideas to get you started:
+Power BI Certified Data Analyst (PL-300) with a Bachelor’s in Computer Engineering and 2+ years of experience. I specialize in building scalable data solutions—from automated ETL pipelines to insightful dashboards—that turn raw data into strategic decisions. Focused on making data "actually useful" for startups, reducing manual reporting by 80%.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+
+- **Data Analysis & Visualization:** Power BI, Excel, Python (Pandas, NumPy, Matplotlib)  
+- **Databases & ETL:** SQL, Azure Data Services, Data Modeling, Data Warehousing  
+- **Other Tools:** Git, GitHub, Jupyter Notebook  
+
+---
+
+### 🚀 Projects & Impact
+* **[Hotel Analytics Modeling](https://github.com/elahesharifi/Data-Driven-Hotel-Analysis):** Processed and modeled **500k+ records** to uncover revenue-driving trends and automate reporting logic.
+* **[Career Pivots in the Dutch Tech Market](https://github.com/elahesharifi/DashboardDuel3):** Visualized complex transition paths within the local tech ecosystem, providing clarity on career impact.
+* **Operational Excellence:** Built automated dashboards and ETL pipelines that **reduce manual reporting by 80%** while ensuring 100% data integrity.
+---
+
+### 📜 Certifications
+
+* **[PL-300](https://learn.microsoft.com/api/credentials/share/en-gb/ElaheSharifi/A82C774B2C1FB29F?sharingId=3C28E59E69D4AD4A) | Microsoft Power BI Data Analyst** *Specializing in DAX, data modeling, and strategic visualization.*
+* **[DP-203](https://learn.microsoft.com/api/credentials/share/en-us/ElaheSharifi/6C4699D05A7E53D6?sharingId) | Microsoft Azure Data Engineer** *Designing scalable infrastructures and automated ETL pipelines.*
+
+---
+
+## 🌐 Languages
+
+- **Dutch:** Fluent (B2 / NT2-II)  
+- **English:** Fluent  
+
+---
+
+## ✨ Fun Facts
+- 🧗‍♂️ I’m a **climbing enthusiast**.
+- 🐶 I love **dogs** (and yes, they are better than clean datasets!).
+
+---
+
+I’m always open to **collaborations, freelance work, and new data challenges**! 🚀
+
+
+### 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/elahesharifi/)
