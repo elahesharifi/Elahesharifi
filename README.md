@@ -3,7 +3,7 @@
 📫 **Email:** [Elahesharifi28@gmail.com](mailto:elahesharifi28@gmail.com)  
 📍 **Amsterdam | NL Work Authorized (No sponsorship)**
 
-Power BI Certified Data Analyst with a Bachelor’s in Computer Engineering and 2+ years of experience. I specialize in building scalable data solutions—from automated ETL pipelines to insightful dashboards—that turn raw data into strategic decisions. Focused on making data "actually useful" for startups, reducing manual reporting by 80%.
+Power BI Certified Data Analyst with a Bachelor’s in Computer Engineering and one year of experience. I specialize in building scalable data solutions—from automated ETL pipelines to insightful dashboards—that turn raw data into strategic decisions. Focused on making data "actually useful" for startups, reducing manual reporting by 80%.
 
 ---
 
